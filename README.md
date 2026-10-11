@@ -1,4 +1,4 @@
-<h1 align="center">🛰️ Proxcy — Free Proxies</h1>
+<h1 align="center">🛰️ Proxcy</h1>
 
 <p align="center">
   <img alt="proxies" src="https://img.shields.io/badge/proxies-8962-brightgreen?style=flat-square">
